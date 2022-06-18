@@ -4,3 +4,14 @@ body {
 #NomePrincipal{
     color: red;
 }
+.HeaderLista{
+    color: blueviolet;
+    font-style: italic;
+    font-weight: 200;
+}
+#saoLourencoInformacoes{
+    color: brown;
+}
+body p:nth-child(1) {
+    color: darkred;
+}
