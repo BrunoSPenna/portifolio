@@ -1,17 +1,22 @@
 body {
-    background-color: rgb(166, 255, 0);
+    background-color: rgb(0, 204, 255);
 }
 #NomePrincipal{
-    color: red;
+    color: darkblue;
+    font-style: oblique;
 }
 .HeaderLista{
     color: blueviolet;
     font-style: italic;
     font-weight: 200;
 }
-#saoLourencoInformacoes{
-    color: brown;
+.headerLista2{
+    font-weight: 500;
+    color: black;
 }
-body p:nth-child(1) {
-    color: darkred;
+
+#minhaDescricao{
+    color: beige;
+    font-style: inherit;
+
 }
